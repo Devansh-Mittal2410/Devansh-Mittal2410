@@ -66,7 +66,7 @@
   Community-focused notice & announcement platform  
   `HTML · CSS · JavaScript`
 
-- 🛒 **Amazon Homepage Clone**  
+- 🛒 **[Amazon Homepage Clone](https://github.com/Devansh-Mittal2410/Amazon_clone)**  
   Pixel-perfect UI using Flexbox & Grid  
   `HTML · CSS`
 
@@ -98,16 +98,13 @@
 
 ---
 
-## 📊 GitHub Visuals
+## 🌱 What I’m Currently Learning
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devansh-Mittal2410&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-Mittal2410&layout=compact&theme=radical" />
-</p>
-
+- ⚛️ **Advanced React** (component design, hooks, state management)
+- 🌐 **Backend Fundamentals** (REST APIs, authentication, server logic)
+- 🤖 Applying **AI & ML concepts** to real-world projects
+- 📊 Improving **DSA & problem-solving** for interviews
+>
 
 ---
 
