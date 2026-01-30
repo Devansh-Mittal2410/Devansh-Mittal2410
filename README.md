@@ -1,129 +1,129 @@
-👋 Hi, I’m Devansh Mittal
-🚀 Software Developer | Full-Stack & Data Enthusiast | CSE (AI & AIML)
+<h1 align="center">Hi 👋, I'm Devansh Mittal</h1>
+<h3 align="center">Software Developer | Full-Stack & Data Enthusiast | CSE (AI & AIML)</h3>
 
-I’m a Computer Science undergraduate passionate about building real-world web applications and data-driven solutions.
-I enjoy turning ideas into clean, scalable products with a strong focus on performance, usability, and problem-solving.
+<p align="center">
+  <a href="https://www.linkedin.com/in/devansh-mittal-3b4925305/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Devansh%20Mittal-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="https://github.com/Devansh-Mittal2410" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Devansh--Mittal2410-black?style=flat-square&logo=github">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Devansh-Mittal2410&label=Profile%20Views&color=brightgreen&style=flat-square" />
+</p>
 
-🎯 Actively seeking internship & early-career opportunities in Software / Web / Data roles.
+---
 
-🧑‍💻 Quick Snapshot (For Recruiters)
+## 🚀 About Me
 
-🎓 B.Tech CSE (AI & AIML) — KIET Group of Institutions
-CGPA: 9.39
+🎓 B.Tech **Computer Science (AI & AIML)** student at **KIET Group of Institutions**  
+💼 Former **Web Developer Intern @ CODSOFT**  
+📊 **Data Analytics Intern @ Deloitte Australia (Virtual)**  
+🧠 Strong in **DSA, OOPs, SQL & Problem Solving**  
 
-💼 Web Developer Intern @ CODSOFT
+🎯 **Actively seeking internships & entry-level roles** in  
+**Software Development | Web Development | Data Analytics**
 
-📊 Data Analytics Intern @ Deloitte Australia (Virtual)
+---
 
-🧠 Strong in DSA, OOPs, SQL, and logic building
+## 🛠️ Tech Stack
 
-🛠️ Hands-on experience with production-ready projects
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
 
-🛠️ Technical Skills
+### ⚙️ Frameworks & Tools
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau)
 
-Languages
-JavaScript · Python · C++ · HTML · CSS
+---
 
-Frameworks & Libraries
-React · Bootstrap · jQuery
+## ⭐ Featured Projects
 
-Tools & Platforms
-Git & GitHub · VS Code · Jupyter Notebook · Tableau · Excel
+### 🌐 Web Development
+- 🔗 **[Portfolio Website](https://github.com/Devansh-Mittal2410/Portfolio_Website)**  
+  Responsive personal portfolio showcasing skills & projects  
+  `HTML · CSS · JavaScript`
 
-Core Strengths
-Web Development · Data Analytics · API Integration · UI/UX · Problem Solving
+- 🔗 **[Community Notice Board](https://github.com/Devansh-Mittal2410/Community-Notice-Board)**  
+  Community-based web app for notices & announcements  
+  `HTML · CSS · JavaScript`
 
-⭐ Featured Projects (Real, Practical, Recruiter-Friendly)
-🌐 Web Applications
+- 🛒 **Amazon Homepage Clone**  
+  Pixel-perfect UI using Flexbox & Grid  
+  `HTML · CSS`
 
-Portfolio Website
+---
 
-Personal portfolio showcasing skills, projects, and experience
-HTML · CSS · JavaScript
+### 🎮 Interactive Projects
+- 🎯 **[Simon Game](https://github.com/Devansh-Mittal2410/Simon_Game)**  
+  Memory game with animations & sounds  
+  `JavaScript · jQuery`
 
-Community Notice Board
+- 🎲 **[Dicee Game](https://github.com/Devansh-Mittal2410/DiceeGame)**  
+  Fun dice game demonstrating DOM logic  
+  `JavaScript`
 
-Community-based web app for notices and announcements
-HTML · CSS · JavaScript
+---
 
-Amazon Homepage Clone
-Pixel-accurate UI clone using modern layout techniques
-HTML · CSS (Flexbox, Grid)
+### 📊 Data & Utilities
+- 📈 **[Loan Default Prediction](https://github.com/Devansh-Mittal2410/Loan-Default-Prediction)**  
+  Data analysis & ML prediction project  
+  `Python · Jupyter Notebook`
 
-🎮 Interactive & Logic-Based Projects
+- 🔳 **[QR Code Generator](https://github.com/Devansh-Mittal2410/QR_Generator)**  
+  JavaScript-based QR generator  
+  `JavaScript`
 
-Simon Game
+- 🖼️ **[Image Editor](https://github.com/Devansh-Mittal2410/ImageEditor)**  
+  Web-based image manipulation tool  
+  `HTML · CSS · JavaScript`
 
-Memory game with increasing difficulty, animations & sound
-JavaScript · jQuery
+---
 
-Dicee Game
+## 💼 Internship Experience
 
-Simple game demonstrating DOM manipulation & logic
-JavaScript
+**Web Developer Intern — CODSOFT**
+- Built responsive & optimized web interfaces  
+- Improved UI/UX and reduced load time by ~20%  
+- Integrated frontend with APIs  
 
-Noughts & Crosses
+**Data Analytics Intern — Deloitte Australia (Virtual)**
+- Analyzed datasets using **Excel & SQL**  
+- Built **Tableau dashboards** for insights  
+- Worked on fraud detection & validation techniques  
 
-Python-based Tic-Tac-Toe logic implementation
-Python
+---
 
-📊 Data & Utility Projects
+## 🏆 Achievements
 
-Loan Default Prediction
+🏅 **99.08 Percentile** — Naukri Campus Young Turks (AIR 4705)  
+🎯 Participant — **Unstop Talent Park 2025**  
+📜 Certified in **Data Analytics, Web Development & AI Fundamentals**
 
-Data analysis & ML-based prediction using real datasets
-Python · Jupyter Notebook
+---
 
-QR Code Generator
+## 📊 GitHub Stats
 
-JavaScript utility to generate scannable QR codes
-JavaScript
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devansh-Mittal2410&show_icons=true&theme=radical" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-Mittal2410&layout=compact&theme=radical" />
+</p>
 
-Image Editor
+---
 
-Web-based image editing with filters and effects
-HTML · CSS · JavaScript
+## 📫 Connect With Me
 
-💼 Internship Experience
+- 💼 LinkedIn: https://www.linkedin.com/in/devansh-mittal-3b4925305/
+- 💻 GitHub: https://github.com/Devansh-Mittal2410
+- 📄 Resume: Available on request
 
-Web Developer Intern — CODSOFT
+---
 
-Built responsive, cross-device web interfaces
-
-Improved UI/UX and reduced page load time by ~20%
-
-Worked with APIs and clean frontend architecture
-
-Data Analytics Intern — Deloitte Australia (Virtual)
-
-Analyzed structured datasets using Excel & SQL
-
-Built interactive Tableau dashboards for business insights
-
-Applied data validation & fraud detection techniques
-
-🏆 Highlights & Achievements
-
-🥇 99.08 Percentile — Naukri Campus Young Turks (AIR 4705)
-
-🎯 Participant — Unstop Talent Park 2025
-
-📜 Certified in Data Analytics, Web Development & AI Fundamentals
-
-📊 GitHub At a Glance
-
-
-
-
-📫 Contact & Profiles
-
-💼 LinkedIn: https://www.linkedin.com/in/devansh-mittal-3b4925305/
-
-💻 GitHub: https://github.com/Devansh-Mittal2410
-
-📄 Resume: Available upon request
-
-⭐ Final Note
-
-I believe in learning by building and writing code that actually gets used.
-If you’re a recruiter, mentor, or collaborator — let’s connect.
+⭐ *If you like my work, feel free to star ⭐ the repositories and connect!*  
