@@ -1,57 +1,69 @@
-<h1 align="center">Hi 👋, I'm Devansh Mittal</h1>
-<h3 align="center">Software Developer | Full-Stack & Data Enthusiast | CSE (AI & AIML)</h3>
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Devansh+Mittal;Software+Developer;Full-Stack+%7C+Data+Enthusiast;Actively+Seeking+Internships" />
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/devansh-mittal-3b4925305/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Devansh%20Mittal-blue?style=flat-square&logo=linkedin">
-  </a>
-  <a href="https://github.com/Devansh-Mittal2410" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Devansh--Mittal2410-black?style=flat-square&logo=github">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Devansh-Mittal2410&label=Profile%20Views&color=brightgreen&style=flat-square" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284085-42b6cb4d-6a6f-4b28-b9e0-6d43d6c5f1b8.gif" width="600"/>
 </p>
 
 ---
 
-## 🚀 About Me
+<h3 align="center">🚀 Software Developer | CSE (AI & AIML) | Web & Data Enthusiast</h3>
 
-🎓 B.Tech **Computer Science (AI & AIML)** student at **KIET Group of Institutions**  
-💼 Former **Web Developer Intern @ CODSOFT**  
+<p align="center">
+  <a href="https://www.linkedin.com/in/devansh-mittal-3b4925305/">
+    <img src="https://img.shields.io/badge/LinkedIn-Devansh%20Mittal-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/Devansh-Mittal2410">
+    <img src="https://img.shields.io/badge/GitHub-Devansh--Mittal2410-black?style=for-the-badge&logo=github">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Devansh-Mittal2410&style=for-the-badge&color=brightgreen"/>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif" width="300"/>
+
+🎓 **B.Tech CSE (AI & AIML)** @ KIET Group of Institutions  
 📊 **Data Analytics Intern @ Deloitte Australia (Virtual)**  
-🧠 Strong in **DSA, OOPs, SQL & Problem Solving**  
+💼 **Web Developer Intern @ CODSOFT**  
 
-🎯 **Actively seeking internships & entry-level roles** in  
-**Software Development | Web Development | Data Analytics**
+💡 I love building **real-world web apps**, exploring **data-driven insights**, and solving problems with **clean, scalable code**.
+
+🎯 **Open to Internships & Entry-Level Roles**  
+`Software Development | Web Development | Data Analytics`
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,html,css" />
+</p>
 
 ### ⚙️ Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,git,github,vscode" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+</p>
 
 ---
 
-## ⭐ Featured Projects
+## 🚀 Featured Projects
+
+<img src="https://user-images.githubusercontent.com/74038190/238200839-6c8f0c3e-4f8c-4c0b-bad4-2c3a8a1f7e25.gif" width="100%"/>
 
 ### 🌐 Web Development
 - 🔗 **[Portfolio Website](https://github.com/Devansh-Mittal2410/Portfolio_Website)**  
-  Responsive personal portfolio showcasing skills & projects  
+  Personal portfolio showcasing skills & projects  
   `HTML · CSS · JavaScript`
 
 - 🔗 **[Community Notice Board](https://github.com/Devansh-Mittal2410/Community-Notice-Board)**  
-  Community-based web app for notices & announcements  
+  Community-focused notice & announcement platform  
   `HTML · CSS · JavaScript`
 
 - 🛒 **Amazon Homepage Clone**  
@@ -62,22 +74,22 @@
 
 ### 🎮 Interactive Projects
 - 🎯 **[Simon Game](https://github.com/Devansh-Mittal2410/Simon_Game)**  
-  Memory game with animations & sounds  
+  Memory game with animations & sound  
   `JavaScript · jQuery`
 
 - 🎲 **[Dicee Game](https://github.com/Devansh-Mittal2410/DiceeGame)**  
-  Fun dice game demonstrating DOM logic  
+  Dice game demonstrating DOM logic  
   `JavaScript`
 
 ---
 
-### 📊 Data & Utilities
+### 📊 Data & Utility
 - 📈 **[Loan Default Prediction](https://github.com/Devansh-Mittal2410/Loan-Default-Prediction)**  
-  Data analysis & ML prediction project  
+  ML-based data analysis project  
   `Python · Jupyter Notebook`
 
-- 🔳 **[QR Code Generator](https://github.com/Devansh-Mittal2410/QR_Generator)**  
-  JavaScript-based QR generator  
+- 🔳 **[QR Generator](https://github.com/Devansh-Mittal2410/QR_Generator)**  
+  QR code generation utility  
   `JavaScript`
 
 - 🖼️ **[Image Editor](https://github.com/Devansh-Mittal2410/ImageEditor)**  
@@ -86,44 +98,42 @@
 
 ---
 
-## 💼 Internship Experience
+## 📊 GitHub Visuals
 
-**Web Developer Intern — CODSOFT**
-- Built responsive & optimized web interfaces  
-- Improved UI/UX and reduced load time by ~20%  
-- Integrated frontend with APIs  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devansh-Mittal2410&show_icons=true&theme=radical" />
+</p>
 
-**Data Analytics Intern — Deloitte Australia (Virtual)**
-- Analyzed datasets using **Excel & SQL**  
-- Built **Tableau dashboards** for insights  
-- Worked on fraud detection & validation techniques  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-Mittal2410&layout=compact&theme=radical" />
+</p>
+
 
 ---
 
 ## 🏆 Achievements
 
-🏅 **99.08 Percentile** — Naukri Campus Young Turks (AIR 4705)  
-🎯 Participant — **Unstop Talent Park 2025**  
-📜 Certified in **Data Analytics, Web Development & AI Fundamentals**
+✨ **99.08 Percentile** — Naukri Campus Young Turks (AIR 4705)  
+🏅 Participant — **Unstop Talent Park 2025**  
+📜 Certified in **Web Development, Data Analytics & AI Fundamentals**
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Let’s Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devansh-Mittal2410&show_icons=true&theme=radical" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-Mittal2410&layout=compact&theme=radical" />
+  <a href="https://www.linkedin.com/in/devansh-mittal-3b4925305/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:devanshmittal9b@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
 </p>
 
 ---
 
-## 📫 Connect With Me
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750284-8b0d4c5b-4d2a-4c45-bb8b-77a2b9f4a0a0.gif" width="300"/>
+</p>
 
-- 💼 LinkedIn: https://www.linkedin.com/in/devansh-mittal-3b4925305/
-- 💻 GitHub: https://github.com/Devansh-Mittal2410
-- 📄 Resume: Available on request
-
----
-
-⭐ *If you like my work, feel free to star ⭐ the repositories and connect!*  
+⭐ *If you like my work, feel free to star ⭐ my repositories and connect!*  
